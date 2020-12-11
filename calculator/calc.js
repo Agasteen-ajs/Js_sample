@@ -1,4 +1,4 @@
-function num(n){
+function opr(n){
     document.getElementById("result").value+=n;
 }
 
